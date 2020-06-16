@@ -1,0 +1,23 @@
+body{
+	background:orange;
+}
+h1 {
+	font-size:60px;
+}
+p {
+	font-size:20px;
+	color:blue;
+}
+.green {
+	color:green;
+}
+#big {
+	font-size:60px;
+}
+
+#big, h1 {
+	color:salmon;
+}
+h1, p, .green, #big{
+	text-align:center;
+}
