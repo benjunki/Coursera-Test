@@ -21,3 +21,12 @@ p {
 h1, p, .green, #big{
 	text-align:center;
 }
+
+p, ul, li{
+	text-align:center;
+	color:solid green;
+	list-style:none;
+}
+div>li {
+	color:green;
+}
