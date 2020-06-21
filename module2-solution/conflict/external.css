@@ -1,5 +1,6 @@
-p{
+span{
 	font-size:130%;
-	background-color:grey;
 	color:white; 
+	background-color:white;
+	text-align:center;
 }
